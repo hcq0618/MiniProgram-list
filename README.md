@@ -1,2 +1,2 @@
-# miniprogram-list
+# MiniProgram-list
 developing the WeChat miniprogram list
